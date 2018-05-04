@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High Site on ONISA</title>
+    <link>https://staging.onisa.org.za/tags/high-site/</link>
+    <description>Recent content in High Site on ONISA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://staging.onisa.org.za/tags/high-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formatting Tests</title>
+      <link>https://staging.onisa.org.za/blog/2018/05/03/formatting-tests/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.onisa.org.za/blog/2018/05/03/formatting-tests/</guid>
+      <description>This is intended as a quick reference and showcase. For more complete info, see John Gruber&amp;rsquo;s original spec and the Github-flavored Markdown info page.
+Note that there is also a Cheatsheet specific to Markdown Here if that&amp;rsquo;s what you&amp;rsquo;re looking for. You can also check out more Markdown tools.
+Table of Contents Headers
+Emphasis
+Lists
+Links
+Images
+Code and Syntax Highlighting
+Tables
+Blockquotes
+Inline HTML
+Horizontal Rule
+Line Breaks</description>
+    </item>
+    
+  </channel>
+</rss>

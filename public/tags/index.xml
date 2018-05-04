@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ONISA</title>
+    <link>https://staging.onisa.org.za/tags/</link>
+    <description>Recent content in Tags on ONISA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://staging.onisa.org.za/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High Site</title>
+      <link>https://staging.onisa.org.za/tags/high-site/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.onisa.org.za/tags/high-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super Tag</title>
+      <link>https://staging.onisa.org.za/tags/super-tag/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.onisa.org.za/tags/super-tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yet Another</title>
+      <link>https://staging.onisa.org.za/tags/yet-another/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.onisa.org.za/tags/yet-another/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
