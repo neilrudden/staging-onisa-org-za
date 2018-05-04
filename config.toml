@@ -1,4 +1,4 @@
-baseURL = "https://staging.onisa.org.za"
+baseURL = "https://staging.onisa.org.za/"
 languageCode = "en-us"
 title = "ONISA"
 theme = "hugo-universal-theme"
